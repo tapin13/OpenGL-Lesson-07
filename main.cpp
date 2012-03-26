@@ -23,7 +23,6 @@ void Circle::draw() {
 }
 
 vector<Circle> circ;
-Circle c(10.0, 10.0);
 
 float WinWid = 400.0;
 float WinHei = 400.0;
